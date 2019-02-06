@@ -1,2 +1,2 @@
-total 0
+total 14240
 -rw-r--r--. 1 root root 0 Feb  6 21:31 hook_time.txt
